@@ -6,6 +6,7 @@
  - Import User Groups - Importando usuarios em massa para dentro de um grupo do Active Directory.
  - Computers Move Groups - Movendo computadores em massa para uma OU expecifica.
  - Name User E-mail True - Extraindo usuario de rede e e-mail das contas ativas.
+ - Relatorios de Contas - Extraindo informações de contas ativas,desativadas e inativas.
 
 • Microsoft Office 365
 
