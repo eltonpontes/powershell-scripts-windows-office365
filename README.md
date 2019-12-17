@@ -1,4 +1,4 @@
-# powershell
+# Powershell
 
 • Active Directory
 
