@@ -8,6 +8,7 @@
  - Name User E-mail True - Extraindo usuario de rede e e-mail das contas ativas.
  - Relatorios de Contas - Extraindo informações de contas ativas,desativadas e inativas.
  - Ajuste Horario de Logon - Ajustando usuarios em massa utilizando um usuario para templete.
+ - Computers Olds - Extraindo informações de Computadores antigos do Active Directory.
 
 • Microsoft Office 365
 
