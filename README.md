@@ -9,6 +9,7 @@
  - Relatorios de Contas - Extraindo informações de contas ativas,desativadas e inativas.
  - Ajuste Horario de Logon - Ajustando usuarios em massa utilizando um usuario para templete.
  - Computers Olds - Extraindo informações de Computadores antigos do Active Directory.
+ - User Last Logon - Usuario com mais de 45 Dias sem realizar logon.
 
 • Microsoft Office 365
 
