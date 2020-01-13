@@ -15,3 +15,7 @@
 
  - Connect Office 365 Exchange - Conectando no Exchange Online.
  - Envio de E-mail - enviando e-mail através do Powershell.
+
+• Microsoft Dynamics
+
+ - Dynamics Creat Key - Criação de Chave para atenticação.
